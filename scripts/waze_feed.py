@@ -72,13 +72,13 @@ def main():
     rows = sorted(known.values(), key=lambda r: r["published"] or r["first_seen"])
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     with open(ACCIDENTS, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=COLUMNS)
+        w = csv.DictWriter(f, fieldnames=COLUMNS, lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
 
     by_street = Counter(r["street"] or "(unknown)" for r in rows)
     with open(OUT_DIR / "by_street.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(["street", "accidents"])
         w.writerows(by_street.most_common())
 

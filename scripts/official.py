@@ -66,19 +66,19 @@ def main():
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     with open(OUT_DIR / "tallinn_crashes.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=list(FIELDS.values()))
+        w = csv.DictWriter(f, fieldnames=list(FIELDS.values()), lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
 
     by_street = Counter(r["street"] or "(unknown)" for r in rows)
     with open(OUT_DIR / "by_street.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(["street", "crashes"])
         w.writerows(by_street.most_common())
 
     by_year = Counter(r["time"][:4] for r in rows)
     with open(OUT_DIR / "by_year.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(["year", "crashes"])
         w.writerows(sorted(by_year.items()))
 
