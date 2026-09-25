@@ -1,6 +1,6 @@
 # Tallinn crash report
 
-_Generated 2026-09-25 19:45 UTC_
+_Generated 2026-09-25 19:46 UTC_
 
 ## Injury crashes (Transpordiamet open data)
 
