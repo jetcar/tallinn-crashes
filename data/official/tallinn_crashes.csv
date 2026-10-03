@@ -1468,8 +1468,8 @@ case_id,time,killed,injured,vehicles,street,house_nr,cross_street,district,type,
 3110150005206,2015-01-08 22:04:00,0,3,2,A. H. Tammsaare tee,,Retke tee,Kristiine linnaosa,Kokkupõrge,Kokkupõrge vastutuleva sõidukiga,0,0,0,6585227.0,540186.0
 3110150005357,2015-01-09 07:25:00,0,1,0,E. Vilde tee,,Akadeemia tee,Mustamäe linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6584979.0,537452.0
 2302150000832,2015-01-09 13:20:00,0,1,0,Sõle tn,51,,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6589874.0,539738.0
-3110150005592,2015-01-09 17:00:00,0,1,1,Ehitajate tee,33,,Mustamäe linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6585068.0,538064.0
 2300150000185,2015-01-09 17:00:00,0,1,2,Paldiski mnt,77,,Haabersti linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6588162.0,539584.0
+3110150005592,2015-01-09 17:00:00,0,1,1,Ehitajate tee,33,,Mustamäe linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6585068.0,538064.0
 3110150007602,2015-01-12 14:50:00,0,1,1,Sõle tn,,Madala tn,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6590203.0,539898.0
 3110150008668,2015-01-14 14:05:00,0,1,2,Pärnu mnt,6,,Kesklinna linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6588867.0,542555.0
 3110150010213,2015-01-17 02:17:00,0,1,2,Toompea tn,,Kaarli pst,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge sõidukiga küljelt,0,0,0,6588494.0,542006.0
@@ -7474,7 +7474,7 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2101250085034,2025-05-29 13:27:00,0,1,2,Sõpruse pst,186,,Mustamäe linnaosa,Kokkupõrge,Kokkupõrge sõidukiga küljelt,0,1,0,6585982.0,540001.0
 2101250085537,2025-05-30 10:57:00,0,1,2,Pärnu mnt,,Turu plats,Nõmme linnaosa,Ühesõidukiõnnetus,Sõiduki ümberpaiskumine teel,0,0,0,6583525.071,538864.4112
 2101250086270,2025-05-31 07:16:00,0,1,1,Salme tn,30,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Sõiduki ümberpaiskumine teel,0,0,1,6590126.0,541483.0
-2101250086341,2025-05-31 11:04:00,0,1,1,Punane tn,52,,Lasnamäe linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6588914.0,547906.0
+2101250086341,2025-05-31 11:04:00,0,1,1,,52,,Lasnamäe linnaosa,Jalakäijaõnnetus,Kokkupõrge jalakäijaga,1,0,0,6588914.0,547906.0
 2101250087057,2025-06-01 02:16:00,0,1,1,Pärnu mnt,,,Nõmme linnaosa,Ühesõidukiõnnetus,Kokkupõrge teel oleva takistusega,0,0,1,6583357.226,538550.8153
 2101250087347,2025-06-01 14:36:00,0,1,1,Sõpruse pst,201,,Mustamäe linnaosa,Muu liiklusõnnetus,Muu liiklusõnnetus,0,1,0,6585043.0,539629.0
 2101250087384,2025-06-01 15:30:00,0,1,2,Lille tn,2,,Kristiine linnaosa,Kokkupõrge,Kokkupõrge ees liikuva sõidukiga,0,0,0,6588334.639,540358.7894
@@ -8164,9 +8164,9 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2315262032976,2026-07-12 16:12:00,0,1,1,Kuristiku tn,10,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589578.0,545636.0
 2315262033047,2026-07-12 21:31:00,0,1,1,Jõe tn,5,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6589182.0,543340.0
 2317262029843,2026-07-12 23:20:00,0,1,1,Metsaveere tn,18,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6582041.0,535512.0
-2317262029963,2026-07-13 16:10:00,0,1,2,Pärnu mnt,,Raudtee tn,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6583358.0,538550.0
+2317262029963,2026-07-13 16:05:00,0,1,2,Pärnu mnt,,Raudtee tn,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6583358.0,538550.0
 2315262033252,2026-07-13 21:05:00,0,1,2,Mustakivi tee,15a,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6589756.0,549090.0
-2315262033343,2026-07-14 11:43:00,0,1,1,Narva mnt,95,,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,1,0,6589925.0,545753.0
+2315262033343,2026-07-14 11:38:00,0,1,1,Narva mnt,95,,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,1,0,6589925.0,545753.0
 2315262033437,2026-07-14 17:46:00,0,1,1,Vana-Kuuli tn,14,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589772.0,546972.0
 2315262033467,2026-07-14 19:48:00,0,1,4,Pärnu mnt,113,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6586649.0,542054.0
 2317262030342,2026-07-15 14:58:00,0,1,1,Tähetorni tn,16,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6583455.0,536300.0
@@ -8177,7 +8177,7 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2315262033974,2026-07-16 22:39:00,0,1,1,Mustakivi tee,21a,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6590107.0,548799.0
 2317262030737,2026-07-17 12:14:00,0,1,1,Tuisu tn,25,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6584950.0,540369.0
 2315262034136,2026-07-17 15:54:00,0,1,2,Pärnu mnt,,Väike-Karja tn,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6583358.0,538550.0
-2317262030798,2026-07-17 16:54:00,0,1,2,Kopli tn,25,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6590251.0,540336.0
+2317262030798,2026-07-17 16:52:00,0,1,2,Kopli tn,25,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6590251.0,540336.0
 2315262034248,2026-07-17 22:24:00,0,1,1,K. Kärberi tn,50,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6590250.0,550539.0
 2317262030931,2026-07-18 02:40:00,0,1,1,Tuulemaa tn,20,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6590148.0,539291.0
 2317262031031,2026-07-18 18:32:00,0,1,1,Valdeku tn,34,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6582876.0,539525.0
@@ -8200,7 +8200,7 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2315262036053,2026-07-26 15:21:00,0,1,1,Rummu tee,4,,Pirita linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6591920.0,546915.0
 2315262036060,2026-07-26 15:58:00,0,1,1,K. Kärberi tn,40,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6590124.0,550409.0
 2317262032450,2026-07-26 17:27:00,0,1,1,Pikaliiva tn,,,Haabersti linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587399.0,535502.0
-2317262032458,2026-07-26 18:12:00,0,2,2,Keskuse tn,1,,Mustamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,1,6584785.0,538235.0
+2317262032458,2026-07-26 18:12:00,0,1,2,Keskuse tn,1,,Mustamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,1,6584785.0,538235.0
 2317262032495,2026-07-26 23:18:00,0,1,1,Vaablase tn,42,,Mustamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6586282.0,539337.0
 2317262032599,2026-07-27 16:26:00,0,1,1,Paldiski mnt,173,,Haabersti linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6586844.0,536243.0
 2317262032607,2026-07-27 17:20:00,0,1,1,Retke tee,,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6584789.0,540097.0
@@ -8237,7 +8237,7 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2317262035308,2026-08-10 07:06:00,0,1,1,Forelli tn,4,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587053.0,539277.0
 2317262035315,2026-08-10 08:42:00,0,1,3,Pärnu mnt,238,,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6584207.0,540896.0
 2315262039412,2026-08-10 09:52:00,0,1,3,Tartu mnt,,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6584184.0,546847.0
-2315262039571,2026-08-10 23:03:00,0,1,2,Viru väljak,3,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6589083.0,542844.0
+2315262039571,2026-08-10 23:00:00,0,1,2,Viru väljak,3,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6589083.0,542844.0
 2317262035461,2026-08-10 23:57:00,0,1,1,Sõle tn,38,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589442.0,540124.0
 2317262035540,2026-08-11 11:54:00,1,0,2,Tööstuse tn,52,,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6590511.0,541093.0
 2315262039654,2026-08-11 13:32:00,0,2,5,J. Kunderi tn,40,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6588339.0,544069.0
@@ -8248,6 +8248,7 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2317262036036,2026-08-13 23:40:00,0,1,1,Turu plats,,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,0,6583588.0,538837.0
 2315262040220,2026-08-14 06:57:00,0,1,2,Tartu mnt,87b,,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,,
 2315262040239,2026-08-14 10:40:00,0,1,1,Raadiku tn,11,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,0,6589806.0,550194.0
+2302262000755,2026-08-14 21:42:00,0,1,1,Ääsi tn,,Suur-Sõjamäe tn,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6587363.0,546041.0
 2317262036248,2026-08-15 03:11:00,0,1,1,Kopli tn,44,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589686.0,541184.0
 2315262040525,2026-08-15 16:23:00,0,2,2,Turba tn,2,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6589907.0,546232.0
 2315262040533,2026-08-15 17:01:00,0,1,1,Varraku tn,16,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6590137.0,548081.0
@@ -8255,37 +8256,98 @@ POLE220000090,2022-07-19 03:21:00,0,1,1,Katleri tn,9a,,Lasnamäe linnaosa,Ühes�
 2317262036549,2026-08-16 17:58:00,0,1,1,Kopli tn,2a,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589515.0,541923.0
 2317262036590,2026-08-16 22:19:00,0,1,1,Pärnu mnt,386/1,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6582941.0,537880.0
 2315262040901,2026-08-17 12:30:00,0,1,1,Laagna tee,,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6588487.0,544535.0
-2317262036690,2026-08-17 14:12:00,0,1,2,Sõle tn,25a/1,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6589093.0,540203.0
+2317262036690,2026-08-17 14:00:00,0,1,2,Sõle tn,25a/1,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6589093.0,540203.0
 2317262036754,2026-08-17 21:20:00,0,1,1,Tulekivi tn,1,,Haabersti linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6588259.0,535390.0
 2317262036778,2026-08-18 01:20:00,0,1,1,Teelise tn,9,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6580434.0,535966.0
 2317262036945,2026-08-18 16:54:00,0,1,2,Aiandi tn,11/1,,Mustamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6586209.0,538685.0
-2317262037089,2026-08-19 12:46:00,0,1,2,Kadaka pst,86a,,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6582673.0,536247.0
+2317262037089,2026-08-19 12:45:00,0,1,2,Kadaka pst,86a,,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6582673.0,536247.0
 2317262037139,2026-08-19 18:00:00,0,1,2,Ädala tn,1,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6588840.0,540377.0
 2315262041699,2026-08-20 16:30:00,0,1,1,Kose tee,57a,,Pirita linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6591465.0,548838.0
 2317262037306,2026-08-20 16:53:00,0,1,2,Aru tn,8,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6589542.0,540294.0
 2315262041761,2026-08-20 22:14:00,0,1,2,Paldiski mnt,,Tehnika tn,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6588106.0,538654.0
 2317262037389,2026-08-21 01:31:00,0,1,1,Kopli tn,42,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589672.0,541215.0
 2317262037464,2026-08-21 13:50:00,0,1,2,Tööstuse tn,87,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,1,6590831.0,540319.0
-2315262041908,2026-08-21 17:34:00,0,1,1,Rävala pst,,Krooni tn,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6588498.0,542674.0
+2315262041908,2026-08-21 17:28:00,0,1,1,Rävala pst,,Krooni tn,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6588498.0,542674.0
+2317262037521,2026-08-21 20:11:00,0,1,1,Pärnu mnt,532,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,0,6580665.0,535732.0
 2315262042113,2026-08-22 16:49:00,0,1,1,Narva mnt,119a,,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,1,0,6590207.0,546519.0
 2315262042195,2026-08-23 04:17:00,0,1,1,Kiisa tn,7,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6586435.0,542095.0
 2315262042349,2026-08-24 01:54:00,0,1,1,J. Koorti tn,10,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589441.0,546925.0
 2315262042469,2026-08-24 17:40:00,0,1,1,Gonsiori tn,28,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6588662.0,543868.0
-2317262038029,2026-08-24 19:13:00,0,1,2,Vabaduse pst,,Pääsküla tn,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6582052.0,538203.0
+2317262038029,2026-08-24 19:10:00,0,1,2,Vabaduse pst,,Pääsküla tn,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6582052.0,538203.0
+2315262042606,2026-08-25 13:16:00,0,1,2,Läänemere tee,3,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge pargitud sõidukiga,0,0,0,6590770.0,548921.0
 2317262038317,2026-08-26 09:52:00,0,1,3,Tähetorni tn,23,,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6583372.0,536451.0
 2317262038337,2026-08-26 11:58:00,0,1,1,Sõpruse pst,237,,Mustamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6584755.0,538962.0
 2317262038387,2026-08-26 15:49:00,0,1,2,Kopli tn,103/2,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6591735.0,537413.0
 2315262042821,2026-08-26 16:01:00,0,1,1,Suur-Sõjamäe tn,6a,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587484.0,545308.0
 2315262042845,2026-08-26 17:31:00,0,1,1,Kaupmehe tn,5,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6588354.0,542777.0
 2315262042936,2026-08-27 08:14:00,0,1,2,Võsa tee,1,,Pirita linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6593913.0,548370.0
+2317262038540,2026-08-27 09:35:00,0,1,2,Paldiski mnt,29,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,,
+2317262038545,2026-08-27 10:17:00,0,1,1,Pärnu mnt,199/1,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6583632.0,540284.0
 2315262042971,2026-08-27 11:00:00,0,1,2,,,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6588522.0,542228.0
-2317262038562,2026-08-27 12:12:00,0,1,1,Tööstuse tn,88,,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6590915.0,540109.0
+2317262038562,2026-08-27 12:02:00,0,1,1,Tööstuse tn,88,,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6590915.0,540109.0
 2315262043041,2026-08-27 16:54:00,0,1,2,Valge tn,4/2,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,1,6589024.0,545387.0
 2317262038632,2026-08-27 18:33:00,0,1,1,Männimetsa tee,24,,Nõmme linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6579826.0,535054.0
+2317262038654,2026-08-27 20:32:00,0,1,1,Angervaksa tn,8,,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,1,6590094.0,540075.0
 2315262043132,2026-08-28 00:01:00,0,1,1,Majaka tn,8,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6588146.0,544732.0
 2317262038721,2026-08-28 07:29:00,0,1,2,J. Sütiste tee,32b,,Mustamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6584478.0,539309.0
+2315262043172,2026-08-28 09:01:00,0,1,1,Tartu mnt,,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,0,6584184.0,546847.0
 2317262038772,2026-08-28 13:28:00,0,1,1,Kopli tn,104,,Põhja-Tallinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,1,6591226.0,538510.0
+2317262038924,2026-08-29 00:44:00,0,1,1,Mustamäe tee,,,Mustamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6586930.0,539432.0
 2317262038967,2026-08-29 07:05:00,0,1,3,Ehitajate tee,122,,Haabersti linnaosa,Kokkupõrge,Kokkupõrge pargitud sõidukiga,0,0,0,6586753.0,537265.0
+2302262000784,2026-08-29 14:40:00,0,1,2,Paavli tn,6a,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6590105.0,539902.0
+2317262039132,2026-08-29 23:04:00,0,1,2,Mai tn,4,,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,1,6583222.0,539043.0
 2317262039323,2026-08-30 19:55:00,0,1,1,E. Vilde tee,85,,Mustamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6585365.0,538620.0
 2317262039344,2026-08-30 21:37:00,0,1,1,Tulekivi tn,1,,Haabersti linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6588259.0,535390.0
 2317262039374,2026-08-30 23:52:00,0,1,1,Järve tn,2,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6585124.0,541325.0
+2315262043846,2026-08-31 10:14:00,0,1,1,Laagna tee,,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6588487.0,544535.0
+2315262044030,2026-09-01 08:37:00,0,1,3,Järvevana tee,,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6586373.0,543052.0
+2315262044039,2026-09-01 09:22:00,0,1,1,Tartu mnt,10,,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6588738.0,543148.0
+2317262039626,2026-09-01 12:10:00,0,2,2,Pärnu mnt,,Teelise tn,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6583358.0,538550.0
+2317262039685,2026-09-01 17:41:00,0,1,1,Nõmme tee,23a,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6586886.0,540972.0
+2317262039846,2026-09-02 14:47:00,0,1,1,Sõpruse pst,182a,,Kristiine linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,1,0,6586227.0,540104.0
+2315262044433,2026-09-03 02:42:00,0,1,1,Ahtri tn,6b,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589332.0,543102.0
+2317262040070,2026-09-03 17:35:00,0,1,1,Sooranna tn,,,Haabersti linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6590511.0,533006.0
+2315262044670,2026-09-04 10:14:00,0,1,1,K. Kärberi tn,60,,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6590314.0,550683.0
+2317262040189,2026-09-04 10:59:00,0,1,2,Pikaliiva tn,,Kabli tn,Haabersti linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,1,6587399.0,535502.0
+2317262040269,2026-09-04 17:43:00,0,1,2,Vesilennuki tn,7,,Põhja-Tallinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,1,6590544.0,541722.0
+2317262040285,2026-09-04 18:28:00,0,1,1,Kadaka tee,,,Haabersti linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6585659.0,537523.0
+2315262044920,2026-09-05 03:50:00,0,1,1,Pärnu mnt,68,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587639.0,542129.0
+2317262040488,2026-09-05 17:21:00,0,1,2,Tondi tn,33/7,,Kristiine linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6585941.0,541426.0
+2315262045026,2026-09-05 17:26:00,0,1,1,J. Koorti tn,15,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589557.0,547096.0
+2317262040608,2026-09-06 03:32:00,0,1,1,Rannamõisa tee,,,Haabersti linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6588179.0,534708.0
+2315262045260,2026-09-06 17:42:00,0,1,2,Tehnika tn,,Komeedi tn,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6587944.0,541249.0
+2315262045272,2026-09-06 18:33:00,0,1,1,Suur-Sõjamäe tn,4,,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6587387.0,545096.0
+2317262040738,2026-09-06 20:48:00,0,1,1,Kotka tn,12,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587090.0,541395.0
+2317262040795,2026-09-07 07:20:00,0,2,4,Männiku tee,100,,Nõmme linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6581788.0,540739.0
+2317262040810,2026-09-07 09:17:00,1,0,1,Paldiski mnt,129,,Haabersti linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6587956.0,538239.0
+2317262040839,2026-09-07 12:34:00,0,1,1,Turu plats,6,,Nõmme linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,1,0,6583614.0,538848.0
+2317262040895,2026-09-07 17:20:00,0,1,1,Endla tn,,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6588154.0,541621.0
+2317262040921,2026-09-07 18:57:00,0,1,1,Sõle tn,37a,,Põhja-Tallinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6589643.0,539951.0
+2315262045628,2026-09-08 12:43:00,0,1,1,J. Koorti tn,23,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589736.0,547381.0
+2315262045812,2026-09-09 12:43:00,0,1,1,Tähesaju tee,7,,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6589765.0,548439.0
+2315262045859,2026-09-09 15:33:00,0,1,3,Laagna tee,,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6588487.0,544535.0
+2317262041366,2026-09-10 07:40:00,0,1,1,Rannamäe tee,,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589631.0,542398.0
+2315262046019,2026-09-10 12:43:00,0,1,2,Tehnika tn,,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6587944.0,541249.0
+2315262046061,2026-09-10 15:44:00,0,1,2,Punane tn,16a,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6588554.0,546722.0
+2317262041642,2026-09-11 16:43:00,0,1,2,Akadeemia tee,1,,Mustamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6584505.0,538120.0
+2317262041686,2026-09-11 20:13:00,0,1,2,Paldiski mnt,,,Kristiine linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6588106.0,538654.0
+2317262041732,2026-09-11 23:49:00,0,1,1,Rõika tn,17,,Haabersti linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587941.0,539428.0
+2317262041757,2026-09-12 02:16:00,0,1,1,Sõstra tn,2,,Kristiine linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6587574.0,539781.0
+2315262046540,2026-09-12 18:18:00,0,1,1,Väike-Ameerika tn,,Tehnika tn,Kesklinna linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,,,,6587778.0,541723.0
+2317262041902,2026-09-12 20:31:00,0,1,1,Sõpruse pst,249,,Mustamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6584702.0,538756.0
+2315262046738,2026-09-13 18:39:00,0,1,1,Herne tn,26,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6587763.0,542925.0
+2317262042200,2026-09-14 12:10:00,0,1,1,Tulika tn,28,,Kristiine linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6588207.0,540790.0
+2315262046921,2026-09-14 17:17:00,0,2,2,A. Lauteri tn,1,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,0,6588615.0,542860.0
+2315262046927,2026-09-14 17:43:00,0,2,3,Järvevana tee,7m,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,1,6585257.0,541858.0
+2315262046935,2026-09-14 18:16:00,0,1,1,P. Pinna tn,21,,Lasnamäe linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589325.0,547237.0
+2315262047025,2026-09-15 09:58:00,0,1,2,Punane tn,,,Lasnamäe linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6589005.0,547978.0
+2315262047116,2026-09-15 18:33:00,0,1,1,Valge tn,3/2,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,1,0,6589097.0,545315.0
+2315262047558,2026-09-18 02:13:00,0,1,1,F. R. Kreutzwaldi tn,6,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6589021.0,543626.0
+2315262048057,2026-09-20 12:51:00,0,1,3,Merivälja tee,1,,Pirita linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6592400.0,547192.0
+2317262043476,2026-09-20 22:30:00,0,1,2,Paldiski mnt,135a,,Haabersti linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,0,0,6587799.0,537729.0
+2315262048200,2026-09-21 06:14:00,0,1,1,J. Kunderi põik,,,Kesklinna linnaosa,Ühesõidukiõnnetus,Ühesõidukiõnnetus,0,0,1,6588412.0,543808.0
+2317262043507,2026-09-21 08:40:00,0,1,1,Sõpruse pst,245,,Mustamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,,,,6584692.0,538863.0
+2317262043612,2026-09-21 18:41:00,0,1,1,Tondi tn,51,,Kristiine linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,,,,6585710.0,541151.0
+2315262049082,2026-09-25 19:17:00,0,1,2,Paldiski mnt,11,,Kesklinna linnaosa,Kokkupõrge,Kokkupõrge vähemalt kahe sõiduki vahel,0,1,0,6588781.0,541382.0
+2315262049910,2026-09-29 19:10:00,0,1,1,Majaka tn,9,,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6588267.0,544703.0
+2315262050026,2026-09-30 14:10:00,0,1,1,Majaka tn,55,,Lasnamäe linnaosa,Jalakäijaõnnetus,Jalakäijaõnnetus,1,0,0,6587906.0,545249.0

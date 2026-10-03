@@ -1,48 +1,48 @@
 street,crashes
-Pärnu mnt,474
+Pärnu mnt,478
+Paldiski mnt,340
 Narva mnt,339
-Paldiski mnt,335
-Sõpruse pst,282
-Tartu mnt,220
+Sõpruse pst,285
+Tartu mnt,222
 A. H. Tammsaare tee,196
 Peterburi tee,171
-Sõle tn,161
+Sõle tn,162
+Mustamäe tee,155
 Ehitajate tee,155
-Mustamäe tee,154
 Õismäe tee,148
 Kopli tn,130
-Laagna tee,128
-Endla tn,126
-Punane tn,124
+Laagna tee,130
+Endla tn,127
+Punane tn,125
 Pirita tee,96
 Vabaduse pst,93
-(unknown),90
+(unknown),91
 E. Vilde tee,88
 Toompuiestee,88
+Akadeemia tee,85
 J. Smuuli tee,84
-Akadeemia tee,84
 Liivalaia tn,77
+Tehnika tn,77
 Gonsiori tn,76
-Tehnika tn,75
+Kadaka tee,72
 Estonia pst,71
-Kadaka tee,71
 Linnamäe tee,70
 Mustakivi tee,69
+Järvevana tee,66
 Telliskivi tn,65
-Suur-Sõjamäe tn,64
-Järvevana tee,64
+Suur-Sõjamäe tn,65
 Tööstuse tn,62
-Merivälja tee,59
-Tulika tn,59
-K. Kärberi tn,58
-Männiku tee,55
-Ahtri tn,54
-Majaka tn,51
+Merivälja tee,60
+Tulika tn,60
+K. Kärberi tn,59
+Männiku tee,56
+Ahtri tn,55
+Majaka tn,53
 Mere pst,51
 J. Sütiste tee,49
 Põhja pst,47
-Rannamõisa tee,46
-Nõmme tee,45
+Rannamõisa tee,47
+Nõmme tee,46
 Viljandi mnt,45
 Kadaka pst,41
 Pae tn,41
@@ -52,12 +52,12 @@ Pärnamäe tee,40
 Järveotsa tee,39
 Valdeku tn,38
 Raadiku tn,38
+Tondi tn,37
 Rävala pst,36
-Tondi tn,35
 Kaarli pst,35
 Kolde pst,34
+F. R. Kreutzwaldi tn,33
 Pallasti tn,32
-F. R. Kreutzwaldi tn,32
 Paljassaare tee,29
 Vabaõhumuuseumi tee,29
 Pelguranna tn,29
@@ -78,31 +78,31 @@ Kose tee,22
 Luise tn,21
 Tuukri tn,21
 Linnu tee,21
+Tähesaju tee,21
+Kotka tn,20
 Retke tee,20
-Tähesaju tee,20
 Reidi tee,20
 J. Kunderi tn,19
 A. Laikmaa tn,19
 Kivila tn,19
-Kotka tn,19
+Rannamäe tee,19
+Läänemere tee,19
 Viru väljak,18
-Rannamäe tee,18
-Läänemere tee,18
 Ussimäe tee,18
+Valge tn,17
 Tähetorni tn,17
 Vabaduse väljak,17
 Erika tn,17
-Valge tn,16
 Keskuse tn,16
 Sadama tn,16
 Teatri väljak,16
 Tatari tn,15
+Väike-Ameerika tn,15
 Raua tn,15
 Varraku tn,15
 Soo tn,15
 Sitsi tn,15
 Võidujooksu tn,15
-Väike-Ameerika tn,14
 Kakumäe tee,14
 Hobujaama tn,14
 Koidu tn,14
@@ -118,21 +118,22 @@ Kari tn,12
 Raudtee tn,12
 Koskla tn,12
 Priisle tee,12
+J. Koorti tn,12
 Kai tn,12
 Sakala tn,11
 Viru tn,11
 A. Weizenbergi tn,11
+Turu plats,11
 Kentmanni tn,10
 Osmussaare tn,10
 J. Poska tn,10
 Lubja tn,10
 Tervise tn,10
-J. Koorti tn,10
-Turu plats,10
 Jõe tn,10
 Suur-Karja tn,9
 Lootsi tn,9
 Mäepealse tn,9
+A. Lauteri tn,9
 Madala tn,9
 Vesivärava tn,9
 Lootuse pst,9
@@ -144,7 +145,6 @@ Odra tn,9
 Uus-Sadama tn,9
 Pikk tn,8
 Randla tn,8
-A. Lauteri tn,8
 Lükati tee,8
 Muuga tee,8
 Rohu tn,8
@@ -154,6 +154,7 @@ Maleva tn,8
 Tornimäe tn,8
 Laki tn,8
 Wismari tn,8
+P. Pinna tn,8
 Vormsi tn,8
 Purde tn,8
 Vana-Kuuli tn,8
@@ -163,15 +164,16 @@ Salme tn,7
 Kaubamaja tn,7
 Virbi tn,7
 Lembitu tn,7
-P. Pinna tn,7
 Vääna tn,7
 Suurtüki tn,7
 Arbu tn,7
 Vabaõhukooli tee,7
+Pikaliiva tn,7
 Heina tn,7
 Hiiu tn,7
 Suur-Patarei tn,7
 Kotzebue tn,6
+Paavli tn,6
 Vana-Lõuna tn,6
 Viimsi tee,6
 Põllu tn,6
@@ -186,12 +188,10 @@ Ehte tn,6
 Taevakivi tn,6
 Mulla tn,6
 Haabersti tn,6
-Pikaliiva tn,6
 Lennujaama tee,6
 Muhu tn,6
 Kiikri tn,6
 Masina tn,6
-Paavli tn,5
 Keemia tn,5
 Härjapea tn,5
 Tondiraba tn,5
@@ -238,6 +238,7 @@ Luha tn,4
 Graniidi tn,4
 TALLINN - RAPLA - TÜRI,4
 Valukoja tn,4
+Vesilennuki tn,4
 Asunduse tn,4
 Tihase tn,4
 Purje tn,4
@@ -248,6 +249,7 @@ G. Otsa tn,4
 Paasiku tn,4
 Nisu tn,4
 Jalgpalli tn,4
+Herne tn,4
 Supluse pst,4
 Pöörise tn,4
 Kotermaa tn,4
@@ -279,7 +281,6 @@ Kalevipoja tn,3
 Mähe tee,3
 Vilisuu tn,3
 M. Härma tn,3
-Vesilennuki tn,3
 Hooldekodu tee,3
 Kalasadama tn,3
 Pargi tn,3
@@ -301,7 +302,6 @@ Kuldnoka tn,3
 Harku tn,3
 Meeliku tn,3
 Kotkapoja tn,3
-Herne tn,3
 Roseni tn,3
 Vaablase tn,3
 Maisi tn,3
@@ -329,6 +329,7 @@ Ketta tn,2
 Kauka tn,2
 C. R. Jakobsoni tn,2
 Nafta tn,2
+Mai tn,2
 Rataskaevu tn,2
 Ränduri tn,2
 Suve tn,2
@@ -415,6 +416,7 @@ Ida tee,2
 Särje tn,2
 Varre tn,2
 Villardi tn,2
+Angervaksa tn,2
 Lossi tn,2
 Masti tn,2
 Leiva tn,2
@@ -427,7 +429,6 @@ Kärje tn,1
 Väina tee,1
 Pirni tn,1
 Järvekalda tee,1
-Mai tn,1
 Aedvilja tn,1
 Veerenni põik,1
 Kurni tn,1
@@ -575,7 +576,6 @@ Tulbi tn,1
 Malmi tn,1
 Toom-Kooli tn,1
 Küti tn,1
-Angervaksa tn,1
 Tulimulla tn,1
 Suur-Sõjamäe põik,1
 Ao tn,1
@@ -655,6 +655,11 @@ Kivimäe tn,1
 Madalmaa tn,1
 Kursi tn,1
 Rumbi tn,1
+Ääsi tn,1
 Teelise tn,1
 Kiisa tn,1
 Männimetsa tee,1
+Sooranna tn,1
+Rõika tn,1
+Sõstra tn,1
+J. Kunderi põik,1
